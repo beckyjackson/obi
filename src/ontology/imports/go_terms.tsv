@@ -159,3 +159,4 @@ go	GO:0097389	chemokine (C-C motif) ligand 21 production	GO:0032602	chemokine pr
 go	GO:0097390	chemokine (C-X-C motif) ligand 12 production	GO:0032602	chemokine production	
 go	GO:0097391	chemokine (C-X-C motif) ligand 13 production	GO:0032602	chemokine production	
 go	GO:0097392	chemokine (C-X-C motif) ligand 16 production	GO:0032602	chemokine production	
+go	GO:0106139	symbiont cell surface			ancestors
