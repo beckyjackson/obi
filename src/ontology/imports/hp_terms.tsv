@@ -1,2 +1,3 @@
 Source	ID	Label	Parent ID	Parent Label	Related
 hp	HP:0000855	Insulin resistance	BFO:0000016	disposition	
+hp	obo:HsapDv_0000037	fetal stage			ancestors
